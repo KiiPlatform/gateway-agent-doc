@@ -28,7 +28,7 @@ cd $GOPATH
 cd src/github.com/KiiPlatform
 git clone git@github.com:KiiPlatform/gwc-cli.git
 cd gwc-cli
-go get -t -d -v ./..
+go get -t -d -v ./...
 go build
 ```
 
@@ -38,7 +38,7 @@ cd $GOPATH
 cd src/github.com/KiiPlatform
 git clone git@github.com:KiiPlatform/gwm-cli.git
 cd gwm-cli
-go get -t -d -v ./..
+go get -t -d -v ./...
 go build
 ```
 
