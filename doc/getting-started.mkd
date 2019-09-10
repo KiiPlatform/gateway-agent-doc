@@ -27,7 +27,7 @@ cp ~/downloads/artifacts-1.5.2/config.yml ~/gateway-dir
 cd $GOPATH
 cd src/github.com/KiiPlatform
 git clone git@github.com:KiiPlatform/gwc-cli.git
-cd gwc-cli.git
+cd gwc-cli
 go get -t -d -v ./..
 go build
 ```
