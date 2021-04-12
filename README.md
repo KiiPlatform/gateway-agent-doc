@@ -1,7 +1,7 @@
 # Kii Gateway Agent
 
 ## Download
-Download [prebuilt gateway agent](https://bintray.com/kii/kii-gateway-agent/gateway-agent#files)
+Download [prebuilt gateway agent](https://cloudsmith.io/~kii/repos/gateway/packages/)
 
 Extract archive.
 ```
